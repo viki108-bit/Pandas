@@ -13,4 +13,6 @@ data analysis skills.
 - Pandas Data Types
 - Series
 - DataFrame
-- basic opration
+- basic opration on pandas
+- Importing Seaborn
+- basic opration on seaborn
